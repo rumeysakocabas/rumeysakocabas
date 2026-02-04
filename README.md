@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Animasyon](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh2cjloM2hscDZkbWQ1YWt5MDVlbHJyOXI4aGZyejZ3YW9uOHppaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4kG1UEtb9vqwlG/giphy.gif)
+![Animasyon](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU5OWFrODNuNWh1b3duNnduaGUzdTlnZjRyYWptczVmZDluY2pzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A75jcLKzfJuALmFCs/giphy.gif)
 
 ### 🌱 About Me
 - 🔭 I’m currently working on: Cybersecurity and C/C++ learning projects  
