@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ![Animasyon](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU5OWFrODNuNWh1b3duNnduaGUzdTlnZjRyYWptczVmZDluY2pzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2A75jcLKzfJuALmFCs/giphy.gif)
-
+''' yaml
+*
 ### 🌱 About Me
 - 🔭 I’m currently working on: Cybersecurity and C/C++ learning projects  
 - 🌱 I’m currently learning: Kali Linux, TryHackMe challenges  
@@ -13,3 +14,5 @@
 
 ### ⚡ Fun Fact
 - I love exploring new tech tools and creating mini projects 💻
+* '''
+  
