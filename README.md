@@ -14,4 +14,16 @@
 ### ⚡ Fun Fact
 - I love exploring new tech tools and creating mini projects 💻
 
+  ```yaml
+isim: Rumeysa
+yaş: 20
+hobiler:
+  - Kod yazmak
+  - Siber güvenlik
+  - C/C++ öğrenmek
+linkler:
+  linkedin: "https://www.linkedin.com/in/r%C3%BCmeysa-kocaba%C5%9F-9a757b316/"
+  medium: "https://medium.com/@rumeysakocabas"
+
+
   
