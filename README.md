@@ -24,7 +24,7 @@ hobiler:
   - Siber güvenlik
   - C/C++ öğrenmek
 linkler:
-  linkedin: "https://www.linkedin.com/in/r%C3%BCmeysa-kocaba%C5%9F-9a757b316/"
+  linkedin: "https://www.linkedin.com/in/rumeysa-kocabas-dev"
   medium: "https://medium.com/@rumeysakocabas"
 
 
