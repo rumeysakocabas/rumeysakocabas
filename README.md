@@ -26,6 +26,7 @@ hobiler:
     
 linkler:
   Linkedin: "https://www.linkedin.com/in/rumeysa-kocabas-dev"
+  
   Medium: "https://medium.com/@rumeysakocabas"
 
 
